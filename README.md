@@ -1,4 +1,10 @@
 ### Hi there 👋
+As an enthusiastic and curious explorer, I have learnt many skills and diversified my knowledge into various fields. At present, I am undergraduate student of Bachelor of Technology in Computer Science learning web frameworks and technologies including AI.
+I am Graphic Designer Lead in Meta Developer Circle, MIT. This gave me a magnificent opportunity to work in cooperation with other colleagues on various projects. I like to learn about Figma, Canva and Adobe Photoshop.
+Apart from this, I learnt about stock marketing and psychology. In free time, I be fond of novels and informative books.
+I like to work in an organized and schematic way.
+If you're seeking for a versatile tech-enthusiast with management skills and interests on various topics, let's make a passionate team.
+Your help and guidance are always appreciated.
 
 <!--
 **chandan200209/chandan200209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
