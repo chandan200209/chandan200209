@@ -1,4 +1,5 @@
-### Hi there 👋
+<center><strong><h3>### Hi there 👋, I'm CHANDAN RAMTEKE</h3></strong></center>
+<br>
 As an enthusiastic and curious explorer, I've learnt many skills and diversified my knowledge into various fields. At present, I am undergraduate student of Bachelor of Technology in Computer Science learning and implementing various languages and technologies including front-end, back-end, Python, C++ and AI. <br>
 Actively seeking internship opportunities and curious to collaborate.<br>
 I like to learn about Figma, Canva and Adobe Photoshop. I was Graphic Designer Lead in Meta Developer Circle, MIT (during my sophomore year). This gave me a magnificent opportunity to work in cooperation with other colleagues on various projects. <br>
