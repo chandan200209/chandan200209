@@ -1,11 +1,11 @@
 <center><strong><h3>### Hi there 👋, I'm CHANDAN RAMTEKE</h3></strong></center>
 <br>
-As an enthusiastic and curious explorer, I've learnt many skills and diversified my knowledge into various fields. At present, I am undergraduate student of Bachelor of Technology in Computer Science learning and implementing various languages and technologies including front-end, back-end, Python, C++ and AI. <br>
+As an enthusiastic and curious explorer, I've learned many skills and diversified my knowledge in various fields. I am an undergraduate student of Bachelor of Technology in Computer Science learning and implementing various languages and technologies including front-end, back-end, Python, C++ and AI. <br>
 Actively seeking internship opportunities and curious to collaborate.<br>
-I like to learn about Figma, Canva and Adobe Photoshop. I was Graphic Designer Lead in Meta Developer Circle, MIT (during my sophomore year). This gave me a magnificent opportunity to work in cooperation with other colleagues on various projects. <br>
-Apart from this, I explored stock marketing and psychology. In free time, I be fond of novels and informative books.
+I like to learn about Figma, Canva, and Adobe Photoshop. I was Graphic Designer Lead in Meta Developer Circle, MIT (during my sophomore year). This gave me a magnificent opportunity to work in cooperation with other colleagues on various projects. <br>
+Apart from this, I explored stock marketing and psychology. In my free time, I will be fond of novels and informative books.
 I like to work in an organized and schematic way.<br>
-If you're seeking for a versatile tech-enthusiast with management skills and interests on various topics, let's make a passionate team.<br>
+If you're seeking a versatile tech enthusiast with management skills and interests in various topics, let's make a passionate team.<br>
 Your help and guidance are always appreciated. Let's achieve and explore together!
 <!--
 **chandan200209/chandan200209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
