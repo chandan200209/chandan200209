@@ -1,13 +1,15 @@
 <center><strong><h3># Hi there 👋, I'm CHANDAN RAMTEKE</h3></strong></center>
 <br>
-
-As an enthusiastic and curious explorer, I've learned many skills and diversified my knowledge in various fields. I am an undergraduate student of Bachelor of Technology in Computer Science learning and implementing various languages and technologies including front-end, back-end, Python, C++, and AI. <br>
-Actively seeking internship opportunities and curious to collaborate.<br>
-I like to learn about Figma, Canva, and Adobe Photoshop. I was Graphic Designer Lead in Meta Developer Circle, MIT (during my sophomore year). This gave me a magnificent opportunity to work in cooperation with other colleagues on various projects. <br>
-Apart from this, I explored stock marketing and psychology. I will be fond of novels and informative books in my free time.
-I like to work in an organized and schematic way.<br>
-If you're seeking a versatile tech enthusiast with management skills and interests in various topics, let's make a passionate team.<br>
-I would appreciate your help and guidance. Let's achieve and explore together!
+- 🔭 I’m currently working on <strong>Spotify Clone</strong>
+- 🌱 I’m currently learning <strong>Javascript</strong>
+- 🎑 My main projects are <strong>Survey Website</strong>
+- 🎨 I’m interested in <strong>Operating Systems and Cybersecurity.</strong>
+- 🥇 My Experiences : <strong></strong>
+- 👨‍🎓 About Myself : <strong>Final Year Undergraduate in BTech. CSE, residing in India</strong>
+- 👯 I’m looking to collaborate on <strong> creating Desktop Programs and Games.</strong>
+<br>
+<h4>Technologies : </h4>
+<p>C++, Python, HTML, CSS, Bootstrap, Javascript, MySQL</p>
 How to reach me : <a href="https://mail.google.com/mail/u/0/#inbox">chandangta963@gmail.com</a>
 <!--
 **chandan200209/chandan200209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
