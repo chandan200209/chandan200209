@@ -1,12 +1,12 @@
 <center><strong><h3># Hi there 👋, I'm CHANDAN RAMTEKE</h3></strong></center>
 <br>
-- 🔭 I’m currently working on <strong>Spotify Clone</strong>
-- 🌱 I’m currently learning <strong>Javascript</strong>
-- 🎑 My main projects are <strong>Survey Website</strong>
-- 🎨 I’m interested in <strong>Operating Systems and Cybersecurity.</strong>
-- 🥇 My Experiences : <strong></strong>
-- 👨‍🎓 About Myself : <strong>Final Year Undergraduate in BTech. CSE, residing in India</strong>
-- 👯 I’m looking to collaborate on <strong> creating Desktop Programs and Games.</strong>
+- 🔭 I’m currently working on <strong>Spotify Clone</strong><br>
+- 🌱 I’m currently learning <strong>Javascript</strong><br>
+- 🎑 My main projects include <strong>Survey Website</strong><br>
+- 🎨 I’m interested in <strong>Operating Systems and Cybersecurity.</strong><br>
+- 🥇 My Experiences : <strong></strong><br>
+- 👨‍🎓 About Myself : <strong>Final Year Undergraduate in BTech. CSE, residing in India</strong><br>
+- 👯 I’m looking to collaborate on <strong> creating Desktop Programs and Games.</strong><br>
 <br>
 <h4>Technologies : </h4>
 <p>C++, Python, HTML, CSS, Bootstrap, Javascript, MySQL</p>
