@@ -8,7 +8,7 @@
 - 👨‍🎓 About Myself : <strong>Final Year Undergraduate in BTech. CSE, residing in India</strong><br>
 - 👯 I’m looking to collaborate on <strong> creating Desktop Programs and Games.</strong><br>
 <br>
-<h4>Technologies : </h4>
+<h4>Tools and Technologies : </h4>
 <p>C++, Python, HTML, CSS, Bootstrap, Javascript, MySQL</p>
 How to reach me : <a href="https://mail.google.com/mail/u/0/#inbox">chandangta963@gmail.com</a>
 <!--
