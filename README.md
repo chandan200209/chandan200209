@@ -11,6 +11,8 @@
 <h4>Tools and Technologies : </h4>
 <p>C++, Python, HTML, CSS, Bootstrap, Javascript, MySQL</p>
 How to reach me : <a href="https://mail.google.com/mail/u/0/#inbox">chandangta963@gmail.com</a>
+LinkedIn Profile : <a href="https://www.linkedin.com/in/chandan-ramteke-29a9a7247/">Chandan Ramteke</a>
+Coding Experience : <a href="https://leetcode.com/u/chandan_ramteke/">Leetcode</a>
 <!--
 **chandan200209/chandan200209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
