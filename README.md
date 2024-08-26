@@ -1,4 +1,4 @@
-<center><strong><h3>Hi there 👋, I'm CHANDAN RAMTEKE</h3></strong></center>
+<center><strong><h3># Hi there 👋, I'm CHANDAN RAMTEKE</h3></strong></center>
 <br>
 
 As an enthusiastic and curious explorer, I've learned many skills and diversified my knowledge in various fields. I am an undergraduate student of Bachelor of Technology in Computer Science learning and implementing various languages and technologies including front-end, back-end, Python, C++, and AI. <br>
