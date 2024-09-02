@@ -1,6 +1,6 @@
 <center><strong><h3># Hi there 👋, I'm CHANDAN RAMTEKE</h3></strong></center>
 <br>
-- 🔭 I’m currently working on <strong>Spotify Clone</strong><br>
+- 🔭 I’m currently working on <strong>SurveySync</strong><br>
 - 🌱 I’m currently learning <strong>Javascript</strong><br>
 - 🎑 My main projects include <strong>Survey Website</strong><br>
 - 🎨 I’m interested in <strong>Operating Systems and Cybersecurity.</strong><br>
