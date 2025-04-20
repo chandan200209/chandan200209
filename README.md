@@ -1,10 +1,10 @@
 <center><strong><h3># Hi there 👋, I'm CHANDAN RAMTEKE</h3></strong></center>
 <br>
-- 🔭 I’m currently working on <strong>SurveySync</strong><br>
-- 🌱 I’m currently learning <strong>Javascript</strong><br>
+- 🔭 I’m currently working on <strong>React.js Projects</strong><br>
+- 🌱 I’m currently learning <strong>Express.js</strong> and <strong>MongoDB</strong><br>
 - 🎑 My main projects include <strong>Survey Website</strong><br>
 - 🎨 I’m interested in <strong>Operating Systems and Cybersecurity.</strong><br>
-- 🥇 My Experiences : <strong></strong><br>
+- 🥇 My Experiences : Online Internship at <strong>Indus AI</strong><br>
 - 👨‍🎓 About Myself : <strong>Final Year Undergraduate in BTech. CSE, residing in India</strong><br>
 - 👯 I’m looking to collaborate on <strong> creating Desktop Programs and Games.</strong><br>
 <br>
