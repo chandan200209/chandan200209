@@ -5,7 +5,7 @@
 - 🎑 My main projects include <strong>Survey Website</strong><br>
 - 🎨 I’m interested in <strong>Operating Systems and Cybersecurity.</strong><br>
 - 🥇 My Experiences : Online Internship at <strong>Indus AI</strong><br>
-- 👨‍🎓 About Myself : <strong>Final Year Undergraduate in BTech. CSE, residing in India</strong><br>
+- 👨‍🎓 About Myself : <strong>Graduated in BTech. CSE, residing in India</strong><br>
 - 👯 I’m looking to collaborate on <strong> creating Desktop Programs and Games.</strong><br>
 <br>
 <h4>Tools and Technologies : </h4>
