@@ -8,9 +8,11 @@
 - 👨‍🎓 About Myself : <strong>Graduated in BTech. CSE, residing in India</strong><br>
 - 👯 I’m looking to collaborate on <strong> creating Desktop Programs and Games.</strong><br>
 <br>
-<h4>Tools and Technologies : </h4>
+<h4>Technologies : </h4>
 <p>C++, Python, HTML, CSS, Bootstrap, Javascript, MySQL,
 Query, PostgreSQL, MongoDB, C, React.js, Express.js, Node.js</p>
+<h4>Tools : </h4>
+<p>Git, Postman, pgAdmin, PowerShell</p>
 How to reach me : <a href="https://mail.google.com/mail/u/0/#inbox">chandangta963@gmail.com</a><br>
 LinkedIn Profile : <a href="https://www.linkedin.com/in/chandan-ramteke-29a9a7247/">Chandan Ramteke</a><br>
 Twitter Profile : <a href="https://x.com/ChandanRamteke8">ChandanRamteke8</a><br>
