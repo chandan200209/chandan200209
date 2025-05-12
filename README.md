@@ -10,6 +10,7 @@
 <br>
 <h4>Tools and Technologies : </h4>
 <p>C++, Python, HTML, CSS, Bootstrap, Javascript, MySQL</p>
+<p>jQuery, PostgreSQL, MongoDB, C, React.js, Express.js, Node.js</p>
 How to reach me : <a href="https://mail.google.com/mail/u/0/#inbox">chandangta963@gmail.com</a><br>
 LinkedIn Profile : <a href="https://www.linkedin.com/in/chandan-ramteke-29a9a7247/">Chandan Ramteke</a><br>
 Twitter Profile : <a href="https://x.com/ChandanRamteke8">ChandanRamteke8</a><br>
