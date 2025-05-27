@@ -1,4 +1,5 @@
 <center><strong><h2>Hi there 👋, I'm CHANDAN RAMTEKE</h2></strong></center>
+<img src="Black and White Illustrative Linkedin Banner.png">
 <br>
 - 🔭 I’m currently working on <strong>Full Stack Web Development Projects</strong><br>
 - 🌱 I’m currently learning <strong>Express.js</strong>, <strong>MongoDB</strong> and <strong>Game Development.</strong><br>
