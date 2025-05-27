@@ -14,6 +14,7 @@
 <br>
 <h4>Technologies : </h4>
 <h3>Languages : </h3>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,cpp,py)](https://skillicons.dev)
 <h3>Front-end : </h3>
 [![My Skills](https://skillicons.dev/icons?i=html,css, react, bootstrap, jquery, materialui, tailwind, vite)](https://skillicons.dev)
