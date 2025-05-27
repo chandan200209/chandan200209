@@ -2,7 +2,7 @@
 <img src="Black and White Illustrative Linkedin Banner.png">
 <br>
 - 🔭 I’m currently working on <strong>Full Stack Web Development Projects</strong><br>
-- 🌱 I’m currently learning <strong>Express.js</strong>, <strong>MongoDB</strong> and <strong>Game Development.</strong><br>
+- 🌱 I’m currently learning <strong>Next.js</strong>, <strong>MongoDB</strong> and <strong>Game Development</strong><br>
 - 🎑 My main projects include <strong>Survey Website</strong><br>
 - 🎨 I’m interested in <strong>Operating Systems and Cybersecurity.</strong><br>
 - 🥇 My Experiences : Online Internship at <strong>Indus AI</strong><br>
