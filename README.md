@@ -14,15 +14,15 @@
 <br>
 <h2>Technologies : </h2>
 <h3>Languages : </h3>
-[!(https://skillicons.dev/icons?i=js)] [!(https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) [!(https://skillicons.dev/icons?i=py)](https://skillicons.dev) [!(https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,cpp,c,py)](https://skillicons.dev)
 <h3>Front-end : </h3>
-[![My Skills](https://skillicons.dev/icons?i=html,css, react, bootstrap, jquery, materialui, tailwind, vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,bootstrap,jquery,materialui,tailwind,vite)](https://skillicons.dev)
 <h3>Back-end : </h3>
-[![My Skills](https://skillicons.dev/icons?i=nodejs, npm,postman,express, fastapi, nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,postman,express,fastapi,nextjs)](https://skillicons.dev)
 <h3>Databases : </h3>
-[![My Skills](https://skillicons.dev/icons?i=postgres, mongodb, mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql)](https://skillicons.dev)
 <h4>Tools : </h4>
-[![My Skills](https://skillicons.dev/icons?i=figma,git, powershell, vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,powershell,vscode)](https://skillicons.dev)
 <!--
 **chandan200209/chandan200209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
