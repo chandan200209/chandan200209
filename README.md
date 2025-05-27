@@ -14,7 +14,7 @@
 <br>
 <h2>Technologies : </h2>
 <h3>Languages : </h3>
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[!(https://skillicons.dev/icons?i=js)](https://skillicons.dev) [!(https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) [!(https://skillicons.dev/icons?i=py)](https://skillicons.dev) [!(https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 <h3>Front-end : </h3>
 [![My Skills](https://skillicons.dev/icons?i=html,css, react, bootstrap, jquery, materialui, tailwind, vite)](https://skillicons.dev)
 <h3>Back-end : </h3>
