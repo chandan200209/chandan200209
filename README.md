@@ -1,4 +1,4 @@
-<center><strong><h2>Hi there 👋, I'm CHANDAN RAMTEKE</h2></strong></center>
+<center><h1>Hi there 👋, I'm CHANDAN RAMTEKE</h1></center>
 <img src="Black and White Illustrative Linkedin Banner.png">
 <br>
 - 🔭 I’m currently working on <strong>Full Stack Web Development Projects</strong><br>
