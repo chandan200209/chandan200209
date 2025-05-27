@@ -13,10 +13,16 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](chandangta963@gmail.com)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/cramteke20/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-ramteke-29a9a7247/)  [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/ChandanRamteke8)  [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199638664439/)	 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/chandan_ramteke/)  [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-151515?logo=codesandbox&logoColor=fff)](https://codesandbox.io/u/chandan200209)  [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/ramteke2002/)  [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19788072/chandan-ramteke)
 <br>
 <h4>Technologies : </h4>
-<p>C++, Python, HTML, CSS, Bootstrap, Javascript, MySQL,
-Query, PostgreSQL, MongoDB, C, React.js, Express.js, Node.js</p>
+<h3>Languages : </h3>
+[![My Skills](https://skillicons.dev/icons?i=js,cpp,py)](https://skillicons.dev)
+<h3>Front-end : </h3>
+[![My Skills](https://skillicons.dev/icons?i=html,css, react, bootstrap, jquery, materialui, tailwind, vite)](https://skillicons.dev)
+<h3>Back-end : </h3>
+[![My Skills](https://skillicons.dev/icons?i=nodejs, npm,postman,express, fastapi, nextjs)](https://skillicons.dev)
+<h3>Databases : </h3>
+[![My Skills](https://skillicons.dev/icons?i=postgres, mongodb, mysql)](https://skillicons.dev)
 <h4>Tools : </h4>
-<p>Git, Postman, pgAdmin, PowerShell</p>
+[![My Skills](https://skillicons.dev/icons?i=figma,git, powershell, vscode)](https://skillicons.dev)
 <!--
 **chandan200209/chandan200209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
