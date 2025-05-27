@@ -30,16 +30,15 @@
 
 ### Tools:
 ![My Skills](https://skillicons.dev/icons?i=figma,git,powershell,vscode)
-<!--
-**chandan200209/chandan200209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h4>Known for:</h4>
+<p>
+• Ethical and dedicated work ethic: I approach tasks with integrity and deliver high-quality results on time.
+• Skilled self-learner: I'm passionate about expanding my knowledge base and am adept at mastering new technologies independently.
+• Open to challenges: I thrive in fast-paced environments and embrace opportunities to learn and grow.
+Strong leadership and teamwork skills: I can effectively collaborate with diverse teams and lead initiatives to success.
+Proficient in English communication and written skills. </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p> If you're seeking a versatile tech-enthusiast with management skills and interests in various topics, let's make a passionate team.
+Your help and guidance are always appreciated. Let's achieve and explore together! </p>
+
