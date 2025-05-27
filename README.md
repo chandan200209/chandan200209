@@ -1,4 +1,4 @@
-<center><strong><h3># Hi there 👋, I'm CHANDAN RAMTEKE</h3></strong></center>
+<center><strong><h2>Hi there 👋, I'm CHANDAN RAMTEKE</h2></strong></center>
 <br>
 - 🔭 I’m currently working on <strong>React.js Projects</strong><br>
 - 🌱 I’m currently learning <strong>Express.js</strong> and <strong>MongoDB</strong><br>
@@ -8,14 +8,13 @@
 - 👨‍🎓 About Myself : <strong>Graduated in BTech. CSE, residing in India</strong><br>
 - 👯 I’m looking to collaborate on <strong> creating Desktop Programs and Games.</strong><br>
 <br>
-## 🌐 Socials:
+<h2>🌐 Socials:</h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](chandangta963@gmail.com)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/cramteke20/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-ramteke-29a9a7247/)  [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/ChandanRamteke8)  [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199638664439/)	 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/chandan_ramteke/)  [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-151515?logo=codesandbox&logoColor=fff)](https://codesandbox.io/u/chandan200209)  [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/ramteke2002/)  [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19788072/chandan-ramteke)
 <br>
-<h4>Technologies : </h4>
+<h2>Technologies : </h2>
 <h3>Languages : </h3>
-[![My Skills](https://skillicons.dev/icons?i=js, html, css, wasm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,cpp,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 <h3>Front-end : </h3>
 [![My Skills](https://skillicons.dev/icons?i=html,css, react, bootstrap, jquery, materialui, tailwind, vite)](https://skillicons.dev)
 <h3>Back-end : </h3>
