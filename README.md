@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm CHANDAN RAMTEKE</h1>
 <br>
-<img src="Black and White Illustrative Linkedin Banner 1.png">
+<img src="Black and White Illustrative Linkedin Banner 11.png">
 <br>
 - 🔭 I’m currently working on <strong>Full Stack Web Development Projects</strong><br>
 - 🌱 I’m currently learning <strong>Next.js</strong>, <strong>MongoDB</strong> and <strong>Game Development</strong><br>
