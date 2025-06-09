@@ -9,7 +9,7 @@
 - 🥇 My Experiences : Online Internship at <strong>Indus AI</strong><br>
 - 👨‍🎓 About Myself : <strong>Graduated in BTech. CSE, residing in India</strong><br>
 - 👯 I’m looking to collaborate on <strong> creating Web Applications, Desktop Programs and Games.</strong><br>
-![](https://komarev.com/ghpvc/?username=chandan200209&label=PROFILE+VIEWS)
+      [![](https://komarev.com/ghpvc/?username=chandan200209&label=PROFILE+VIEWS)]
 <br>
 <h2>🌐 Socials:</h2>
 
