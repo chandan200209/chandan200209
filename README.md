@@ -48,3 +48,5 @@ Your help and guidance are always appreciated. Let's achieve and explore togethe
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandan200209)](https://github.com/chandan200209/github-readme-stats)<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=chandan200209&theme=dark&hide_border=false)<br/>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
