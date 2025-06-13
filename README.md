@@ -15,7 +15,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](chandangta963@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-ramteke-29a9a7247/)  [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199638664439/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/cramteke20/) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/chandan_ramteke/)  [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/ChandanRamteke8)  [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-151515?logo=codesandbox&logoColor=fff)](https://codesandbox.io/u/chandan200209)  [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/ramteke2002/)  [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19788072/chandan-ramteke)
 <br>
-![Uzoma Medium Gif](https://user-images.githubusercontent.com/33858127/88416966-1e53ca00-cdaf-11ea-82f8-f8b90949ac73.gif)
+![Uzoma Medium Gif](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 <br>
 <h2>Tools and Technologies : </h2>
 
