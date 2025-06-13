@@ -44,8 +44,8 @@
 Your help and guidance are always appreciated. Let's achieve and explore together! </p>
 
 ### GitHub Stats:
-![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandan200209&show_icons=true&theme=radical) &nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandan200209)](https://github.com/chandan200209/github-readme-stats)<br>
+![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandan200209&show_icons=true&theme=radical)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandan200209&langs_count=5)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=chandan200209&theme=dark&hide_border=false)<br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan200209&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 
