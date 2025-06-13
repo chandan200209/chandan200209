@@ -43,3 +43,6 @@
 <p> If you're seeking a versatile tech-enthusiast with management skills and interests in various topics, let's make a passionate team.
 Your help and guidance are always appreciated. Let's achieve and explore together! </p>
 
+### GitHub Stats:
+![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandan200209&show_icons=true&theme=radical)
+
