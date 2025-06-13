@@ -18,8 +18,8 @@
 <h2>Tools and Technologies : </h2>
 
 ### Languages:
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ### Front-end:
 ![My Skills](https://skillicons.dev/icons?i=html,css,react,bootstrap,jquery,materialui,tailwind,vite)
 
