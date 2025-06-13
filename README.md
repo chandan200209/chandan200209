@@ -44,7 +44,7 @@
 Your help and guidance are always appreciated. Let's achieve and explore together! </p>
 
 ### GitHub Stats:
-![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandan200209&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandan200209)](https://github.com/chandan200209/github-readme-stats)
-[![Chandan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chandan200209)](https://github.com/chandan200209/github-readme-stats)
+![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandan200209&show_icons=true&theme=radical) &nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandan200209)](https://github.com/chandan200209/github-readme-stats)<br>
+![](https://nirzak-streak-stats.vercel.app/?user=chandan200209&theme=dark&hide_border=false)<br/>
 
