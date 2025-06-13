@@ -60,3 +60,6 @@ Your help and guidance are always appreciated. Let's achieve and explore togethe
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### ⏱️ WakaTime Stats Card 
+[![Chandan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chandan200209)](https://github.com/chandan200209/github-readme-stats)
