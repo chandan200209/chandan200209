@@ -48,5 +48,8 @@ Your help and guidance are always appreciated. Let's achieve and explore togethe
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan200209&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  /> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandan200209&langs_count=5)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shrivastava-1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
