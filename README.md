@@ -43,14 +43,19 @@
 <p> If you're seeking a versatile tech-enthusiast with management skills and interests in various topics, let's make a passionate team.
 Your help and guidance are always appreciated. Let's achieve and explore together! </p>
 
-### GitHub Stats:
+### 🎖️ GitHub Stats
 ![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandan200209&show_icons=true&theme=radical) &nbsp;&nbsp; ![](https://nirzak-streak-stats.vercel.app/?user=chandan200209&theme=dark&hide_border=false)<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan200209&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  /> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandan200209&langs_count=5)
+
+### 📈  Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandan200209&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+
+### ⛳ Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandan200209&langs_count=5)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=chandan200209&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chandan200209&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
