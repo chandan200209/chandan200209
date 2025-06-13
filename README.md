@@ -19,7 +19,7 @@
 
 ### Languages:
 
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+![image]({https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white})
 
 ### Front-end:
 ![My Skills](https://skillicons.dev/icons?i=html,css,react,bootstrap,jquery,materialui,tailwind,vite)
