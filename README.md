@@ -45,4 +45,5 @@ Your help and guidance are always appreciated. Let's achieve and explore togethe
 
 ### GitHub Stats:
 ![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandan200209&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandan200209)](https://github.com/chandan200209/github-readme-stats)
 
