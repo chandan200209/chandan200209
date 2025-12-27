@@ -53,6 +53,7 @@ Your help and guidance are always appreciated. Let's achieve and explore togethe
 
 ### ⛳ Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandan200209&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandan200209&layout=compact&theme=vision-glow)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=chandan200209&limit=5&theme=radical&combine_all_yearly_contributions=true)
