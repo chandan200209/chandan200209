@@ -4,8 +4,8 @@
 <br>
 - 🔭 I’m currently working on <strong>Full Stack Web Development Projects</strong><br>
 - 🌱 I’m currently learning <strong>Next.js</strong>, <strong>OAuth</strong> and <strong>Game Development</strong><br>
-- 🎑 My main projects include <strong>Survey Website</strong><br>
-- 🎨 I’m interested in <strong>Operating Systems and Cybersecurity.</strong><br>
+- 🎑 My main projects include <strong>WhatsApp Clone and EduCore Learning Management System.</strong><br>
+- 🎨 I’m interested in <strong>Design Patterns, Cryptography, Operating Systems and Cybersecurity.</strong><br>
 - 🥇 My Experiences : Online Internship at <strong>Indus AI</strong><br>
 - 👨‍🎓 About Myself : <strong>Graduated in BTech. CSE, residing in India</strong><br>
 - 👯 I’m looking to collaborate on <strong> creating Web Applications, Desktop Programs and Games.</strong><br>
